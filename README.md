@@ -85,7 +85,7 @@ src="banner3.gif"></a>
   <a href="https://www.codechef.com/users/kakashi_sns7" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+      src="codechef.svg"
       alt="kakashi_sns7"
       height="30"
       width="40"
