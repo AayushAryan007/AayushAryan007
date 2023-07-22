@@ -351,11 +351,18 @@
     alt="aayusharyan007"
   />
 </p>
+<br>
 <p>
   <img
-    align="left"
+    align="center"
+    width="450" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusharyan007&show_icons=true&locale=en&layout=compact"
     alt="aayusharyan007"
   />
 </p>
+
+
+<a href=#><img align="center"
+  alt="coding"
+  width="1200" src="falcon.gif"></a>
 
