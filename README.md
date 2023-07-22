@@ -348,16 +348,16 @@
 <p>
   &nbsp;<img
            width="466"
-    align="right"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=aayusharyan007&show_icons=true&locale=en&theme=radical&hide_border=true"
     alt="aayusharyan007"
   />
 </p>
-<br>
+
 <p >
   <img
     align="center"
-    width="466" 
+    width="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusharyan007&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
     alt="aayusharyan007"
   />
