@@ -99,7 +99,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=aayusharyan007"
+      src="https://github-profile-trophy.vercel.app/?username=aayusharyan007&theme=radical&hide_border=true"
       alt="aayusharyan007"
   /></a>
 </p>
@@ -339,7 +339,7 @@
   <img
     align="left"
      width="466"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aayusharyan007&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aayusharyan007&theme=radical&hide_border=true"
     alt="aayusharyan007"
   />
 </p>
@@ -349,7 +349,7 @@
   &nbsp;<img
            width="466"
     align="right"
-    src="https://github-readme-stats.vercel.app/api?username=aayusharyan007&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=aayusharyan007&show_icons=true&locale=en&theme=radical&hide_border=true"
     alt="aayusharyan007"
   />
 </p>
@@ -358,7 +358,7 @@
   <img
     align="center"
     width="466" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusharyan007&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusharyan007&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
     alt="aayusharyan007"
   />
 </p>
