@@ -338,7 +338,7 @@
 <p>
   <img
     align="left"
-     width="300"
+     width="490"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aayusharyan007&"
     alt="aayusharyan007"
   />
@@ -347,17 +347,17 @@
 
 <p>
   &nbsp;<img
-           width="300"
+           width="495"
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=aayusharyan007&show_icons=true&locale=en"
     alt="aayusharyan007"
   />
 </p>
 <br>
-<p>
+<p >
   <img
     align="center"
-    width="300" 
+    width="490" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusharyan007&show_icons=true&locale=en&layout=compact"
     alt="aayusharyan007"
   />
