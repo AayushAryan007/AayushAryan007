@@ -368,3 +368,7 @@
   alt="coding"
   width="1200" src="star wars.gif"></a>
 
+
+
+![snake gif](https://github.com/AayushAryan007/AayushAryan007/blob/output/github-contribution-grid-snake.svg)
+
