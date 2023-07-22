@@ -1,5 +1,7 @@
-![logo](https://github.com/AayushAryan007/AayushAryan007/blob/main/bannner.jpeg)
 
+<a href=#><img align="right"
+  alt="coding"
+src="banner1.gif"></a>
 <h1 align="center">Hi 👋, I'm Aayush Aryan</h1>
 <h3 align="center">
   "As a Front-End Web Developer, I sculpt digital experiences with the finesse
