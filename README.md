@@ -338,7 +338,7 @@
 <p>
   <img
     align="left"
-     width="490"
+     width="466"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aayusharyan007&"
     alt="aayusharyan007"
   />
@@ -347,7 +347,7 @@
 
 <p>
   &nbsp;<img
-           width="495"
+           width="466"
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=aayusharyan007&show_icons=true&locale=en"
     alt="aayusharyan007"
@@ -357,7 +357,7 @@
 <p >
   <img
     align="center"
-    width="490" 
+    width="466" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusharyan007&show_icons=true&locale=en&layout=compact"
     alt="aayusharyan007"
   />
