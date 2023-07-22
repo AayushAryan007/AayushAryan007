@@ -1,7 +1,7 @@
 
-<a href=#><img align="right"
+<a href=#><img width=1000 align="right"
   alt="coding"
-src="banner1.gif"></a>
+src="banner3.gif"></a>
 <h1 align="center">Hi 👋, I'm Aayush Aryan</h1>
 <h3 align="center">
   "As a Front-End Web Developer, I sculpt digital experiences with the finesse
