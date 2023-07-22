@@ -7,13 +7,10 @@
   in a ballet of seamless performance."
 </h3>
 
-<img
-  align="right"
+
+<a href=#><img align="right"
   alt="coding"
-  width="400"
-  src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif"
-/>
-<a href=#><img src="contributions.svg"></a>
+  width="300" src="sphere.gif"></a>
 
 - 🌱 I’m currently learning **MERN technology**
 - 👯 I’m looking to collaborate on **Web Dev projects**
