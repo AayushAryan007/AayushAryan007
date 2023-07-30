@@ -360,7 +360,7 @@ src="banner3.gif"></a>
 
 <p align="center">
   <img 
-    width="left" 
+    width="left"   
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusharyan007&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
     alt="aayusharyan007"
   />
