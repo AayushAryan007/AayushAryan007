@@ -338,9 +338,18 @@ src="banner3.gif"></a>
   </a>
 </p>
 
-<p>
+
+
+<p align="center">
+  &nbsp;<img
+           width="466"
+    src="https://github-readme-stats.vercel.app/api?username=aayusharyan007&show_icons=true&locale=en&theme=radical&hide_border=true"
+    alt="aayusharyan007"
+  />
+</p>
+
+<p align="center">
   <img
-    align="left"
      width="466"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aayusharyan007&theme=radical&hide_border=true"
     alt="aayusharyan007"
@@ -348,18 +357,9 @@ src="banner3.gif"></a>
 </p>
 
 
-<p>
-  &nbsp;<img
-           width="466"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=aayusharyan007&show_icons=true&locale=en&theme=radical&hide_border=true"
-    alt="aayusharyan007"
-  />
-</p>
 
-<p >
-  <img
-    align="center"
+<p align="center">
+  <img 
     width="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusharyan007&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
     alt="aayusharyan007"
