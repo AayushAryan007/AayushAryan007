@@ -330,9 +330,9 @@ src="banner3.gif"></a>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.png"
       alt="webpack"
-      width="40"
+      width="35"
       height="40"
     />
   </a>
