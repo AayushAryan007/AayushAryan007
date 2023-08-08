@@ -166,7 +166,7 @@ src="banner3.gif"></a>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://img.icons8.com/?size=512&id=2ZOaTclOqD4q&format=png"
       alt="express"
       width="40"
       height="40"
