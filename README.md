@@ -118,15 +118,15 @@ src="banner3.gif"></a>
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://seeklogo.com/images/B/babel-logo-54C882D64F-seeklogo.com.png"
+      src="https://brandeps.com/logo-download/B/Babel-logo-vector-01.svg"
       alt="babel"
-      width="80"
+      width="40"
       height="40"
     />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/downloads" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"
       alt="bash"
       width="40"
       height="40"
