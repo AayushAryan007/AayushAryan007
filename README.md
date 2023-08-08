@@ -242,7 +242,7 @@ src="banner3.gif"></a>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://www.svgrepo.com/download/331488/mongodb.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -250,7 +250,7 @@ src="banner3.gif"></a>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      src="https://www.tinytumbleweed.com/wp-content/uploads/2017/03/mysql-001.png"
       alt="mysql"
       width="40"
       height="40"
@@ -266,7 +266,7 @@ src="banner3.gif"></a>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
       alt="nodejs"
       width="40"
       height="40"
