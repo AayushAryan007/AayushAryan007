@@ -118,9 +118,9 @@ src="banner3.gif"></a>
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+      src="https://seeklogo.com/images/B/babel-logo-54C882D64F-seeklogo.com.png"
       alt="babel"
-      width="40"
+      width="80"
       height="40"
     />
   </a>
