@@ -9,7 +9,12 @@ src="banner3.gif"></a>
   in a ballet of seamless performance."
 </h3>
 
-
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=aayusharyan007&label=Profile%20views&color=0e75b6&style=flat"
+    alt="aayusharyan007"
+  />
+</p>
 <a href=#><img align="right"
   alt="coding"
   width="300" src="sphere.gif"></a>
@@ -91,12 +96,7 @@ src="banner3.gif"></a>
       width="40"
   /></a>
 </p>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=aayusharyan007&label=Profile%20views&color=0e75b6&style=flat"
-    alt="aayusharyan007"
-  />
-</p>
+
 
 <p align="center">
   <a  href="https://github.com/ryo-ma/github-profile-trophy"
