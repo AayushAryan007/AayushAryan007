@@ -107,6 +107,12 @@ src="banner3.gif"></a>
   /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,babel,bootstrap,c,cpp,codepen,css,discord,express,figma,firebase	,github,githubactions,html,js,linux,materialui,mongodb,mysql,&perline=8" />
+  </a>
+</p>
+
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
