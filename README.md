@@ -109,7 +109,7 @@ src="banner3.gif"></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,babel,bootstrap,c,cpp,react,codepen,css,discord,express,figma,github,githubactions,html,js,linux,materialui,mongodb,mysql,firebase,netlify,nodejs,ps,powershell,py,redux,sass,stackoverflow,solidity,tailwind,threejs,ts,vscode,vite,webpack,next&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,babel,bootstrap,c,cpp,react,codepen,css,redux,discord,express,figma,github,githubactions,html,js,linux,materialui,mongodb,mysql,firebase,netlify,nodejs,ps,powershell,py,sass,stackoverflow,solidity,tailwind,threejs,ts,vscode,vite,webpack,next&perline=10" />
   </a>
 </p>
 
