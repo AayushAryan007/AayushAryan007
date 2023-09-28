@@ -7,7 +7,7 @@ src="banner3.gif"></a>
 <h3 align="center">
   "As a Front-End Web Developer, I sculpt digital experiences with the finesse
   of code, orchestrating pixels and interactions to harmonize user and interface
-  in a ballet of seamless performance."
+  in a ballet of seamless performance.🍀"
 </h3>
 
 <p align="left">
