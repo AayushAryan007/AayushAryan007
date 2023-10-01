@@ -98,15 +98,11 @@ src="banner3.gif"></a>
   /></a>
 </p>
 
+[![An image of @kakashi_sns7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kakashi_sns7)](https://holopin.io/@kakashi_sns7)
 
-<p align="center">
-  <a  href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-        width="1000"
-      src="https://github-profile-trophy.vercel.app/?username=aayusharyan007&theme=radical&hide_border=true"
-      alt="aayusharyan007"
-  /></a>
-</p>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
