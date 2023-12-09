@@ -98,6 +98,11 @@ src="banner3.gif"></a>
   /></a>
 </p>
 
+
+  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MADARA1287&theme=radical)](https://codeforces.com/profile/MADARA1287) 
+
+
+
 [![An image of @kakashi_sns7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kakashi_sns7)](https://holopin.io/@kakashi_sns7)
 
 
