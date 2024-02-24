@@ -98,8 +98,7 @@ src="banner3.gif"></a>
   /></a>
 </p>
 
-
-  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MADARA1287&theme=radical)](https://codeforces.com/profile/MADARA1287) 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Aayush_Ryan&theme=radical)](https://codeforces.com/profile/Aayush_Ryan) 
 
 
 
