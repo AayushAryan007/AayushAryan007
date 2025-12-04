@@ -5,9 +5,7 @@ src="banner3.gif"></a>
 
 <h1 align="center">Hi 👋🏼, I'm Aayush Aryan</h1>
 <h3 align="center">
-  "As a Front-End Web Developer, I sculpt digital experiences with the finesse
-  of code, orchestrating pixels and interactions to harmonize user and interface
-  in a ballet of seamless performance.🍀"
+  "As a web developer, I craft digital experiences with code — turning concepts into seamless, user-friendly interfaces that marry design and performance. I strive to build intuitive, efficient, and beautiful web applications that delight users.🍀"
 </h3>
 
 <p align="left">
@@ -20,7 +18,7 @@ src="banner3.gif"></a>
   alt="coding"
   width="300" src="sphere.gif"></a>
 
-- 🌱 I’m currently learning **MERN technology**
+- 🌱 I’m currently learning web technology**
 - 👯 I’m looking to collaborate on **Web Dev projects**
 - 👨‍💻 All of my projects are available at [https://github.com/AayushAryan007/](https://github.com/AayushAryan007/)
 - 📫 How to reach me **aayusharyan1210@gmail.com**
